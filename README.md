@@ -45,8 +45,3 @@ Have a look into the short introduction on YouTube:
 
 - [DUB-IY Introduction](https://youtu.be/Yc06HZqR8gg?si=ktLNwQYJj4XRiWYL) 
 
-There is also a manual explaining the various functions:
-
-- [English Manual](docs/en/index.md)
-- [Kurzanleitung Deutsch](docs/de/index.md)
-
