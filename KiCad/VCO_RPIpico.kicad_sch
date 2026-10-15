@@ -4177,6 +4177,16 @@
 		)
 		(uuid "0f4e011d-361e-40e6-bdb4-c41a96a5e7c4")
 	)
+	(text "SSD 1306"
+		(exclude_from_sim no)
+		(at 45.974 71.628 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "52459d1c-bd7e-430f-bb1d-f043d7634a7f")
+	)
 	(text "a)"
 		(exclude_from_sim no)
 		(at 145.542 18.034 0)
