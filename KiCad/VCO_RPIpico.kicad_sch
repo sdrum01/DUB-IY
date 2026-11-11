@@ -9464,7 +9464,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Display:Adafruit_SSD1306"
+		(property "Footprint" "SSD1306:Display_128x64_096_I2C"
 			(at 41.656 80.01 0)
 			(hide yes)
 			(show_name no)
