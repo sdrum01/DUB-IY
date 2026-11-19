@@ -546,8 +546,8 @@
     "meta": {
       "version": 5
     },
-    "net_colors": {},
-    "netclass_assignments": {},
+    "net_colors": null,
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -711,7 +711,7 @@
         "uuid": "0d855e99-162c-4989-8fe3-f98154ec6843"
       }
     ],
-    "used_designators": "#PWR17-18,#PWR37-38,C25,D1,D8,Q1,R31-32,U1",
+    "used_designators": "R31-32,D1,D8,C25,#PWR17-18,#PWR37-38,Q1,U1",
     "variants": []
   },
   "sheets": [
